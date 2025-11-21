@@ -11,10 +11,6 @@ GraphGuard is an AI agent-based network traffic and threat simulation platform t
 
 ---
 
-
-https://github.com/user-attachments/assets/14d17de3-1517-4537-8c4c-ad519acdb7ae
-
-
 ![1005(2)](https://github.com/user-attachments/assets/9045b81b-e4a9-4768-9fb2-a7d443b96564)
 
 
