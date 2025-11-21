@@ -1,6 +1,6 @@
 # GraphGuard - A10 Networks Hackathon Winner
 
-## Agentic AI Network Security Simulation & Visualization Platform
+## Multi-agent Network Threat Detection Platform
 
 ![AI Agents](https://img.shields.io/badge/AI-Agents-blue) ![Network Attack Simulation](https://img.shields.io/badge/Network-Attack%20Simulation-red)
 ---
